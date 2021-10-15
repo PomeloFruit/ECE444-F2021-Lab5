@@ -1,6 +1,10 @@
 # Alan Du
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+## Activity 1
+![activity1](https://user-images.githubusercontent.com/39738139/137523424-6fee7886-40f1-434e-9a94-a28b43d99c9f.png)
+
+
 # CARTE Education Pathways
 
 ## Description
